@@ -1,2 +1,2 @@
 # javaStudy
-java基础开始学
+java之前没学过，目标三个月学成归来
